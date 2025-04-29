@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Class09th (Collsion)/Scenes/Class 09th.unity
+- path: Assets/Class10th (Instantiate & Destroy)/Scens/Class10th.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
